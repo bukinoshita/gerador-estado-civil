@@ -7,6 +7,14 @@
   "repository": "bukinoshita/gerador-estado-civil",
   "author": "bukinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
+  "keywords": [
+    "gerador",
+    "brasileiro",
+    "estado",
+    "civil",
+    "brasil",
+    "dados"
+  ],
   "engines": {
     "node": ">=10"
   },
