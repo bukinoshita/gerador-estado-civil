@@ -23,6 +23,12 @@ geradorEstadoCivil()
 
 Returns a `string` ([ESTADO_CIVIL](source/types/estado-civil.enum.ts)).
 
+## Related
+
+- [gerador](https://github.com/bukinoshita/gerador) — Gerador de dados brasileiros
+- [gerador-nome](https://github.com/bukinoshita/gerador-nome) — Gerador brasileiro de nomes
+- [gerador-sexo](https://github.com/bukinoshita/gerador-sexo) — Gerador brasileiro de Sexo da pessoa
+
 ## License
 
 MIT © [Bu Kinoshita](https://bukinoshita.io)
