@@ -1,6 +1,6 @@
 {
   "name": "gerador-estado-civil",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Gerador brasileiro de Estado Civil",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
