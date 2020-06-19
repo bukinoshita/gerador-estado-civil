@@ -31,4 +31,4 @@ Returns a `string` ([ESTADO_CIVIL](source/types/estado-civil.enum.ts)).
 
 ## License
 
-MIT © [Bu Kinoshita](https://bukinoshita.io)
+MIT © [Bu Kinoshita](https://bukinoshita.com)
